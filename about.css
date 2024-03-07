@@ -8,3 +8,16 @@ body{
   background-color: #fff;
   overflow-x: hidden;
 }
+div{
+  background-color: rgba(212, 81, 20, 0.582);
+  padding: 20px;
+  width: 100%;
+  height: 90px;
+  text-align: right;
+}
+header .css{
+  color: rgb(41, 41, 48);
+  padding: 15px;
+  font-size: 30px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
